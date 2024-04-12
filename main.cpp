@@ -43,6 +43,7 @@ int main(){
 						cout << "리스트가 가득 찼습니다. 삽입 실패" << endl;
 						break;
 					}
+
 					p->Insert(tmpItem);
 					cout<<tmpItem<<"가 삽입되었습니다."<<endl;
 					break;
