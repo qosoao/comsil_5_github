@@ -1,3 +1,4 @@
 change line 1 from master branch
 change line 2 from branch1
 change line 3 from branch2
+change line 4 from branch3
